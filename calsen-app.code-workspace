@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../calsen-app-damas"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoSave": "onWindowChange"
+	}
+}
