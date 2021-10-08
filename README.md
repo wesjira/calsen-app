@@ -63,3 +63,34 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # calsen-app
+
+## Nama Proyek
+
+Aplikasi Calsen Accounting (Terintegrasi dengan Persediaan dan Perpajakan Indonesia)
+
+#### System :
+- Laravel v8.62.0
+- PHP v7.4.24
+- MySQL v15.1 Distrib 10.5.5-MariaDB
+
+## Format penulisan commit
+> `<tipe>[opsional scope]: <pesan>`  
+`[opsional body]`  
+`[opsional footer]`
+
+#### # Tipe :
+-   **conf** berkaitan dengan pengaturan framework (configuration, package, etc)
+-   **feat** berkaitan dengan fitur baru
+-   **fix** berkaitan dengan perbaikan bug
+-   **db** berkaitan dengan database (etc)
+-   **style** berkaitan dengan kode secara langsung (formatting, etc)
+-   **refac** berkaitan yang bukan fitur & fix bug
+-   **perf** perubahan terkait dengan peningkatan performa
+-   **docs** berkaitan dengan dokumentasi
+-   **test** membuat test yang belum ditulis
+
+## Kontribusi
+
+-   [Wisnu Saputro](https://github.com/wesjira)
+
+
